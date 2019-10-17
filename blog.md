@@ -6,7 +6,7 @@ subtitle: My daily progress
 # My Journey begins in summer vacations
 
 >August 18, 2019  
- - **SOLVED** _3 questions on Codeforces Round Div.2 ---> Rating Change 15 -> 1595_  
+ - **SOLVED** _3 questions on Codeforces Round Div.2 ---> Rating Change 1565 -> 1595_  
  - [**SOLVED**](https://codeforces.com/contest/1206/submission/59002909) [_Choose Two Numbers_](https://codeforces.com/contest/1206/problem/A)  
  - [**SOLVED**](https://codeforces.com/contest/1206/submission/59012601) [_Make Product Equal One_](https://codeforces.com/contest/1206/problem/B)  
  - [**SOLVED**](https://codeforces.com/contest/1206/submission/59023820) [_Almost Equal_](https://codeforces.com/contest/1206/submission/59023820)  
