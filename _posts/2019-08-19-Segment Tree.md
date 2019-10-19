@@ -1,3 +1,9 @@
+---
+layout: post
+title: Segment Trees
+subtitle: Explanation cum Problem Implementation
+---
+
 _**Segment Trees**_
 
 >**What are Segment Trees ?**    
