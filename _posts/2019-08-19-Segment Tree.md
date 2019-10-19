@@ -1,22 +1,22 @@
 _**Segment Trees**_
 
->What are Segment Trees ?    
+>**What are Segment Trees ?**    
  - In Competitive Contests, generally problem setters are keen to check the ability of applying data structures in questions.
 Segment trees are a data structure which are mostly used in giving solutions of Range Queries  
 
->BIT TREE vs Segment Trees ?  
+>**BIT TREE vs Segment Trees ?**      
  - BIT Tree have generally quite specific applications only thus it is less modifiable according to problem, mainly it can be used for range sum, max-min queries etc.  
  In this case , Segment trees are quite widely used in many problems as they are more modifiable easily too.  
  - On the other hand, BIT Tree are easy to code as compared to Segment trees.  
  - Thus, it would depend on the programmer and time to code and problem to use which one easilty and that too fastly.
 
- >Structure  
+ >**Structure**  
   - A segment tree is a binary tree such that the nodes on the bottom level of the tree correspond to the array elements, and the other nodes contain information needed for processing range queries.A segment tree is a binary tree such that the nodes on the bottom level of the tree correspond to the array elements, and the other nodes contain information needed for processing range queries. 
 
->Time Complexity  
+>**Time Complexity**  
  - For each query or update O(log n) and for building it O(n * log n) is required.
 
->Implementation  
+>**Implementation**  
  - While implementig Segment trees, often recursive manner is used.We bulit the tree in both the half parts and then merge the parts as per our needs . (See implementation below )  
 
 >**Question**
