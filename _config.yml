@@ -4,7 +4,7 @@ title: Catchharsh's Blog
 description: My Competitive Programming Journey
 navbar-links:
   About Me: "aboutme"
-  Blog: "blog"
+  Daily Progress: "blog"
 avatar: "/img/okabe.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
