@@ -26,7 +26,8 @@ share-links-active:
   facebook: true
   google: false
 #  linkedin: true
- url-pretty: "catchharsh.github.io"  
+# url-pretty: "catchharsh.github.io"  
+google_analytics: "UA-150480894-1"
 
 staticman:
   repository : 
