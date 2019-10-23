@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog 
-subtitle: My daily progress
+title: My Daily Progress
+subtitle: Solutions to Problems on various Online Judges.
 ---
 # My Journey begins in summer vacations
 
