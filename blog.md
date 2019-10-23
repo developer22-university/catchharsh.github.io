@@ -5,6 +5,51 @@ subtitle: My daily progress
 ---
 # My Journey begins in summer vacations
 
+>October 16, 2019
+ - **SOLVED** _4 questions on Codeforces Global Round 5 ----> Rating Change 1585 -> 1659_
+ - [**SOLVED**](http://codeforces.com/contest/1237/submission/62690981) [_Balanced Rating Changes_](http://codeforces.com/contest/1237/problem/A)
+ - [**SOLVED**](http://codeforces.com/contest/1237/submission/62696224) [_Balanced Tunnel_](http://codeforces.com/contest/1237/problem/B)
+ - [**SOLVED**](http://codeforces.com/contest/1237/submission/62717032) [_Balanced Removals Easy_](http://codeforces.com/contest/1237/problem/C1)
+ - [**SOLVED**](http://codeforces.com/contest/1237/submission/62717178) [_Balanced Removals Harder_](http://codeforces.com/contest/1237/problem/C2)
+
+>October 8, 2019
+ - **SOLVED** _3 questions on Edu. Codeforces Round 74 Div. 2  ------> Rating Change 1531 -> 1585_
+ - [**SOLVED**](http://codeforces.com/contest/1238/submission/62121143) [_Prime Subtraction_](http://codeforces.com/contest/1238/problem/A)
+ - [**SOLVED**](http://codeforces.com/contest/1238/submission/62130073) [_Kill 'Em All_](http://codeforces.com/contest/1238/problem/B)
+ - [**SOLVED**](http://codeforces.com/contest/1238/submission/62145874) [_Standard Free 2 Play_](http://codeforces.com/contest/1238/problem/C)
+
+>October 1, 2019
+ - **SOLVED** _4 questions on Codeforces Round 590 Div. 3 ------> Rating Change 1538 -> 1531_
+ - [**SOLVED**](http://codeforces.com/contest/1234/submission/61619664) [_Equalize Prices Again_](http://codeforces.com/contest/1234/problem/A)
+ - [**SOLVED**](http://codeforces.com/contest/1234/submission/61630023) [_Social Networks Easy Version_](http://codeforces.com/contest/1234/problem/B1)
+ - [**SOLVED**](http://codeforces.com/contest/1234/submission/61632228) [_Social Networks Hard Version_](http://codeforces.com/contest/1234/problem/B2)
+ - [**SOLVED**](http://codeforces.com/contest/1234/submission/61658130) [_Pipes_](http://codeforces.com/contest/1234/problem/C)
+
+>September 21, 2019
+ - **SOLVED** _4 questions on Codeforces Round 587 Div. 3 ------>  Rating Change 1568 -> 1618_
+ - [**SOLVED**](http://codeforces.com/contest/1216/submission/60966544) [_Prefixes_](http://codeforces.com/contest/1216/problem/A)
+ - [**SOLVED**](http://codeforces.com/contest/1216/submission/60969849) [_Shooting_](http://codeforces.com/contest/1216/problem/B)
+ - [**SOLVED**](http://codeforces.com/contest/1216/submission/60984642) [_Swords_](http://codeforces.com/contest/1216/problem/D)
+ - [**SOLVED**](http://codeforces.com/contest/1216/submission/60990177) [_White Sheeet_](http://codeforces.com/contest/1216/problem/C)
+
+>September 15, 2019
+ - **SOLVED** _3 questions on Codeforces Round 585 Div. 2 -----> Rating Change 1559 -> 1568_
+ - [**SOLVED**](http://codeforces.com/contest/1215/submission/60613247) [_Yellow Cards_](http://codeforces.com/contest/1215/problem/A)
+ - [**SOLVED**](http://codeforces.com/contest/1215/submission/60619314) [_The Number Of Products_](http://codeforces.com/contest/1215/problem/B)
+ - [**SOLVED**](http://codeforces.com/contest/1215/submission/60623700) [_Swap Letters_](http://codeforces.com/contest/1215/problem/C)
+
+>September 14, 2019
+ - **SOLVED** _3 questions on Codeforces Round 584 Div. 1+ Div.2 ------> Rating Change 1559 -> 1559_
+ - [**SOLVED**](http://codeforces.com/contest/1209/submission/60535128) [_Paint The numbers_](http://codeforces.com/contest/1209/problem/A)
+ - [**SOLVED**](http://codeforces.com/contest/1209/submission/60557855) [_Koala and the lights_](http://codeforces.com/contest/1209/problem/B)
+ - [**SOLVED**](http://codeforces.com/contest/1209/submission/60561800) [_Paint the digits_](http://codeforces.com/contest/1209/problem/C)
+
+>August 22, 2019
+ - **SOLVED** _3 questions on Codeforces Round Div. 2 -----> Rating Change 1595 -> 1619_  
+ - [**SOLVED**](http://codeforces.com/contest/1207/submission/59277735) [_Two types of burgers_](http://codeforces.com/contest/1207/problem/A)
+ - [**SOLVED**](http://codeforces.com/contest/1207/submission/59281634) [_Square filling_](http://codeforces.com/contest/1207/problem/B)
+ -[**SOLVED**](http://codeforces.com/contest/1207/submission/59301576) [_Gas Pipeline_](http://codeforces.com/contest/1207/problem/C)
+ 
 >August 18, 2019  
  - **SOLVED** _3 questions on Codeforces Round Div.2 ---> Rating Change 1565 -> 1595_  
  - [**SOLVED**](https://codeforces.com/contest/1206/submission/59002909) [_Choose Two Numbers_](https://codeforces.com/contest/1206/problem/A)  
@@ -20,8 +65,8 @@ subtitle: My daily progress
  - [**SOLVED**](https://codeforces.com/contest/1203/submission/58721989) [_Common Divisors_](https://codeforces.com/contest/1203/problem/C)  
  
  >August 11, 2019  
-  - **SOLVED** _3 questions on Codeforces Round 578 DIv. 2 ----> Rating Change 1379 -> 1476 **SPECIALIST***_  
-  - [**SOLVED**](https://codeforces.com/contest/1200/submission/58601483) [_Round Corridor_]()https://codeforces.com/contest/1200/problem/C)  
+  - **SOLVED** _3 questions on Codeforces Round 578 DIv. 2 ----> Rating Change 1379 -> 1476 **SPECIALIST**_  
+  - [**SOLVED**](https://codeforces.com/contest/1200/submission/58601483) [_Round Corridor_](https://codeforces.com/contest/1200/problem/C)  
   - [**SOLVED**](https://codeforces.com/contest/1200/submission/58584353) [_Block Adventure_](https://codeforces.com/contest/1200/problem/B)  
   - [**SOLVED**](https://codeforces.com/contest/1200/submission/58577822) [_Hotelier_](https://codeforces.com/contest/1200/problem/A)  
 
