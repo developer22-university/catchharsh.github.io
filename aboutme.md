@@ -4,7 +4,8 @@ title: About me
 subtitle: Competitive Programmer cum Anime lover
 ---
 Hi, I'm Harsh Gupta, a sophomore at IIT Patna.  
-I think a competitive programmer is always an anime lover.  
+I am a competitive programmer cum developer, would like to work on something that can impact the society in a positive way.
+Solving problems is my hobby and I really enjoy this _sport_.  
 
 I enjoy:  
 - Competitive programming   
