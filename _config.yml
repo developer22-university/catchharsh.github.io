@@ -1,10 +1,10 @@
-url: "https://catchharsh.github.io"
+url: "https://learnwithpalak.github.io"
 baseurl: ""
-title: Catchharsh's Blog
-description: My Competitive Programming Journey
+title: Student Blog
+description: Sharing My Learnings
 navbar-links:
   About Me: "aboutme"
-  Daily Progress: "blog"
+  Daily Progress: "Blog"
 avatar: "/img/okabe.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
@@ -16,17 +16,12 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 author:
-  name: Harsh Gupta
-social-network-links:
+  name: Palak
+  social-network-links:
   rss: true
-  email: "catchharsh99@gmail.com"
-  github: catchharsh
-  linkedin: catchharsh
-share-links-active:
-  linkedin: true
-  google: false
+  email: "magicreal100@gmail.com"
 #  linkedin: true
-# url-pretty: "catchharsh.github.io"  
+# url-pretty: "learnwithpalak.github.io"  
 google_analytics: "UA-150480894-1"
 
 staticman:
